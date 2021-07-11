@@ -1,5 +1,8 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
+
+<img src="assets/logo/ronyman.com.png" width="60">
+
 ```
 Web Applicant & Resources : 
 ```
