@@ -13,10 +13,10 @@ Web Applicant & Resources :
 simply find us on any social network you are on. Then search for our brands. Below are some child brands we are working on..
 
 ### Our members
-* [Domains & Hosting Provider | ezicom.net](https://ezicom.net/) 
-* [Rails App | Rails Deployment | railsserver.net](https://railsserver.net/) 
-* [Your Hosting Business choice | bigwebx.com](https://bigwebx.com/)  
-* [Mobile Friendly | Css less web commonents | getweb.dev](https://getweb.dev/)  
+* [Domains & Hosting Provider. | ezicom.net](https://ezicom.net/) 
+* [Rails App. | Rails Deployment. | railsserver.net](https://railsserver.net/) 
+* [Your Hosting Business choice. | bigwebx.com](https://bigwebx.com/)  
+* [Mobile Friendly. | Css less web commonents. | getweb.dev](https://getweb.dev/)  
 
 [We are hire...](https://ezicom.net/)
 
